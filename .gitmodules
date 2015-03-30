@@ -1,0 +1,3 @@
+[submodule "libs/graphics"]
+	path = libs/graphics
+	url = git@github.com:amulware/awgraphics.git
