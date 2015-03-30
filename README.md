@@ -1,4 +1,4 @@
-# GameDev<T> Pixelation
+# GameDev&lt;T&gt; Pixelation
 
 This is the example project for my post on post processing pixelation [on my blog](http://genericgamedev.com/effects/post-processing-pixelation).
 
